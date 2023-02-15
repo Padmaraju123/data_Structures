@@ -1,0 +1,6 @@
+# stack is a data structures which is used to store the data by the prinicple of last-in-first-out (LIFO)
+# stack is abstract data type it means created by user for his purpose
+
+# push : insert an object into the stack
+# pop : remove/return the latest one in the stack.
+# top : which is used to gives the latest one object but does not remove in the stack.

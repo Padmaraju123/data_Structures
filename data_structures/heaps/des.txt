@@ -1,0 +1,12 @@
+# queues : collection of objects
+# queues are formed by FIFO (first in first out)
+# examples : any counter line / booking list / waiting list of any reservation
+
+
+heaps
+#collection of objects or elements stored as a binary tree called binary heaps
+#Relational property : key in each node of the binary tree is greater than or equal to those in its children
+#Structural Property : binary tree should be a complete binary tree
+#Max heap : if the key of each node is greater than or equal to those children then it is Max heap
+#Min heap : if the key of each node is smaller than or equla to those children then it is Min heap
+

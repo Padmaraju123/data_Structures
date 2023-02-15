@@ -1,0 +1,25 @@
+#hashing : this is technique used for searching,inserting,deleting elements from a collection using hash table
+
+types of searching
+#Linear searching
+#Binary searching
+#Binary search tree
+#hashing
+
+# In hashing we use hash table is used to store data elements
+# hash function maps elements to corresponding indices
+
+types of hashing
+1)ideal hashing : one to one hashing h(x)=x
+2)compression hashing : h(x)= x%10
+
+collison:when more than one key maps to the same index in the hash table with compression hashing
+
+#To avoid collison we techniques
+1)chaining
+2)Open Addressing
+   a)Linear Probing
+   b)Quadratic Probing
+   c)Double hashing
+
+   
